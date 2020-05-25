@@ -8,7 +8,7 @@
     </a>
 </p>
 
-[DEV ONLY PACKAGE]**
+**[DEV ONLY PACKAGE]**
 [![Integrity check](https://github.com/mathematicator-core/meta/workflows/Integrity%20check/badge.svg)](https://github.com/mathematicator-core/calculator/actions?query=workflow%3A%22Integrity+check%22)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](./LICENSE)
 
