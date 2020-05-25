@@ -1,0 +1,11 @@
+# Submodules (we do not want to commit versions because of forks)
+libs/*
+
+# App
+log/
+temp/
+vendor/
+composer.lock
+
+# Tests
+coverage.xml

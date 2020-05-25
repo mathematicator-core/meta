@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/integral-solver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/mandelbrot-set" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/numbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/tokenizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/vizualizator" vcs="Git" />
+  </component>
+</project>

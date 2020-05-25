@@ -1,0 +1,32 @@
+[submodule "libs/calculator"]
+	path = libs/calculator
+	url = https://github.com/mathematicator-core/calculator.git
+	branch = master
+[submodule "libs/engine"]
+	path = libs/engine
+	url = https://github.com/mathematicator-core/engine.git
+	branch = master
+[submodule "libs/integral-solver"]
+	path = libs/integral-solver
+	url = https://github.com/mathematicator-core/integral-solver.git
+	branch = master
+[submodule "libs/mandelbrot-set"]
+	path = libs/mandelbrot-set
+	url = https://github.com/mathematicator-core/mandelbrot-set.git
+	branch = master
+[submodule "libs/numbers"]
+	path = libs/numbers
+	url = https://github.com/mathematicator-core/numbers.git
+	branch = master
+[submodule "libs/search"]
+	path = libs/search
+	url = https://github.com/mathematicator-core/search.git
+	branch = master
+[submodule "libs/tokenizer"]
+	path = libs/tokenizer
+	url = https://github.com/mathematicator-core/tokenizer.git
+	branch = master
+[submodule "libs/vizualizator"]
+	path = libs/vizualizator
+	url = https://github.com/mathematicator-core/vizualizator.git
+	branch = master
