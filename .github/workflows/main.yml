@@ -16,6 +16,10 @@ jobs:
       - name: Git clone
         uses: actions/checkout@master
 
+      - name: Git update submodules
+        run: |
+          git submodule update --recursive
+
       - name: Install PHP
         uses: shivammathur/setup-php@master
         with:

@@ -9,7 +9,7 @@
 </p>
 
 **[DEV ONLY PACKAGE]**
-[![Integrity check](https://github.com/mathematicator-core/meta/workflows/Integrity%20check/badge.svg)](https://github.com/mathematicator-core/calculator/actions?query=workflow%3A%22Integrity+check%22)
+[![Integrity check](https://github.com/mathematicator-core/meta/workflows/Integrity%20check/badge.svg)](https://github.com/mathematicator-core/meta/actions?query=workflow%3A%22Integrity+check%22)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](./LICENSE)
 
 
@@ -43,7 +43,7 @@ composer phpstan:all
 ### Consistency specification
 
 - All repos should have the same Codestyle
-    - You can check it by `composer `
+    - You can check it by `composer cs:all`
     - All repos should have the same `.editorconfig`
 - All master branches should be compatible
     - Except dependent Pull requests that should be solved ASAP.

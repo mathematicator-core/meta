@@ -2,6 +2,20 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/bin" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea-libs" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/calculator" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/engine" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/integral-solver" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/mandelbrot-set" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/numbers" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/search" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/vizualizator" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/code-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/coding-standard" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/doctrine" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/localization" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/package-manager" />
@@ -51,5 +65,13 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="engine" />
     <orderEntry type="module" module-name="calculator" />
+    <orderEntry type="module" module-name="calculator" />
+    <orderEntry type="module" module-name="engine" />
+    <orderEntry type="module" module-name="integral-solver" />
+    <orderEntry type="module" module-name="mandelbrot-set" />
+    <orderEntry type="module" module-name="numbers" />
+    <orderEntry type="module" module-name="search" />
+    <orderEntry type="module" module-name="tokenizer" />
+    <orderEntry type="module" module-name="vizualizator" />
   </component>
 </module>

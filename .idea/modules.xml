@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/calculator/.idea/calculator.iml" filepath="$PROJECT_DIR$/.idea-libs/calculator/.idea/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/engine/.idea/engine.iml" filepath="$PROJECT_DIR$/.idea-libs/engine/.idea/engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/integral-solver/.idea/integral-solver.iml" filepath="$PROJECT_DIR$/.idea-libs/integral-solver/.idea/integral-solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/mandelbrot-set/.idea/mandelbrot-set.iml" filepath="$PROJECT_DIR$/.idea-libs/mandelbrot-set/.idea/mandelbrot-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mathematicator-meta.iml" filepath="$PROJECT_DIR$/.idea/mathematicator-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/numbers/.idea/numbers.iml" filepath="$PROJECT_DIR$/.idea-libs/numbers/.idea/numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/search/.idea/search.iml" filepath="$PROJECT_DIR$/.idea-libs/search/.idea/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/tokenizer/.idea/tokenizer.iml" filepath="$PROJECT_DIR$/.idea-libs/tokenizer/.idea/tokenizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/vizualizator/.idea/vizualizator.iml" filepath="$PROJECT_DIR$/.idea-libs/vizualizator/.idea/vizualizator.iml" />
     </modules>
   </component>
 </project>
