@@ -69,6 +69,10 @@ however you can any other IDE by your preferences.
 - At the beginning you have to run `composer install:all`
 - Then run any other bulk operation, e.g. `composer phpstan:all`
 
+## Development documentation
+
+See [Development documentation](docs/dev.md)
+
 ## Contribution
 
 Feel free to open an issue or open a Pull Request.
