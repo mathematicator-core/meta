@@ -27,7 +27,7 @@ class CodingStandardInstall extends Command
 		parent::__construct($name);
 
 		$this->filesystem = new Filesystem();
-		$this->codingStandardDir = PathHelper::realPath(__DIR__ . '/../../temp/coding-standard');
+		$this->codingStandardDir = PathHelper::realPath(__DIR__ . '/../../temp/coding-standard', true);
 	}
 
 

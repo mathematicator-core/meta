@@ -11,10 +11,8 @@ jobs:
     steps:
       - name: Git clone
         uses: actions/checkout@master
-
-      - name: Download Git submodules
-        run: |
-          git submodule update --init --recursive
+        with:
+          submodules: 'true'
 
       - name: Install PHP
         uses: shivammathur/setup-php@master
@@ -45,10 +43,8 @@ jobs:
     steps:
       - name: Git clone
         uses: actions/checkout@master
-
-      - name: Download Git submodules
-        run: |
-          git submodule update --init --recursive
+        with:
+          submodules: 'true'
 
       - name: Install PHP
         uses: shivammathur/setup-php@master

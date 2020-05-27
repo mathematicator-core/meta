@@ -4,13 +4,21 @@ declare(strict_types=1);
 
 namespace Mathematicator\Meta\Bin\Helpers;
 
+use Symfony\Component\Filesystem\Filesystem;
+
 /**
  * @internal
  */
 class PathHelper
 {
-	public static function realPath(string $path): string
+	public static function realPath(string $path, bool $createDir = false): string
 	{
+		$filesystem = new Filesystem();
+
+		if($filesystem->exists($path)) {
+			$filesystem->mkdir($path);
+		}
+
 		$realPath = realpath($path);
 
 		if (!$realPath) {
