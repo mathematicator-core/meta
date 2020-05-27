@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/bin" isTestSource="false" packagePrefix="Mathematicator\Meta\Bin\" />
       <excludeFolder url="file://$MODULE_DIR$/.idea-libs" />
+      <excludeFolder url="file://$MODULE_DIR$/libs" />
       <excludeFolder url="file://$MODULE_DIR$/libs/calculator" />
       <excludeFolder url="file://$MODULE_DIR$/libs/engine" />
       <excludeFolder url="file://$MODULE_DIR$/libs/integral-solver" />
@@ -19,6 +20,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/doctrine" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/localization" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/package-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/brainmaestro/composer-git-hooks" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/contributte/console" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/contributte/di" />
@@ -56,6 +58,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-ctype" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/process" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/service-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation-contracts" />

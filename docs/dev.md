@@ -24,4 +24,3 @@ Before PR, please run complete code check via command:
 composer cs:install # only first time
 composer fix # otherwise pre-commit hook can fail
 ````
-

@@ -5,6 +5,34 @@ on:
   push:
 
 jobs:
+  code_style:
+    runs-on: ubuntu-latest
+    name: Code style check
+    steps:
+      - name: Git clone
+        uses: actions/checkout@master
+
+      - name: Install PHP
+        uses: shivammathur/setup-php@master
+        with:
+          php-version: 7.4
+          coverage: pcov
+
+      - name: Install composer dependencies
+        run: |
+          composer run cs:install
+
+          # Install app dependencies
+          composer install --no-interaction --prefer-dist
+
+      # Check code checker and coding standards
+      - name: Check coding standards
+        run: |
+          composer run cs:check
+
+      - name: Check PHPStan rules
+        run: composer run phpstan
+
   build:
     runs-on: ubuntu-latest
     strategy:
@@ -15,10 +43,8 @@ jobs:
     steps:
       - name: Git clone
         uses: actions/checkout@master
-
-      - name: Git update submodules
-        run: |
-          git submodule update --recursive
+        with:
+          submodules: 'recursive'
 
       - name: Install PHP
         uses: shivammathur/setup-php@master
