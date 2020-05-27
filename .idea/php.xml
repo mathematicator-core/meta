@@ -25,7 +25,6 @@
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/vendor/martindilling/sunny" />
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
-      <path value="$PROJECT_DIR$/vendor/contributte/psr6-caching" />
       <path value="$PROJECT_DIR$/vendor/contributte/psr11-container-interface" />
       <path value="$PROJECT_DIR$/vendor/contributte/di" />
       <path value="$PROJECT_DIR$/vendor/contributte/console" />
@@ -109,6 +108,10 @@
       <path value="$PROJECT_DIR$/vendor/phpstan/phpstan" />
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
       <path value="$PROJECT_DIR$/vendor/brainmaestro/composer-git-hooks" />
+      <path value="$PROJECT_DIR$/vendor/nette/tester" />
+      <path value="$PROJECT_DIR$/vendor/mathematicator-core/vizualizator" />
+      <path value="$PROJECT_DIR$/vendor/mathematicator-core/vizualizator" />
+      <path value="$PROJECT_DIR$/vendor/mathematicator-core/vizualizator" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
