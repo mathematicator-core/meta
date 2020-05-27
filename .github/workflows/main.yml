@@ -24,10 +24,8 @@ jobs:
 
       - name: Install composer dependencies
         run: |
-          composer run cs:install
-
-          # Install app dependencies
           composer install --no-interaction --prefer-dist
+          composer run cs:install
 
       # Check code checker and coding standards
       - name: Check coding standards
@@ -47,8 +45,10 @@ jobs:
     steps:
       - name: Git clone
         uses: actions/checkout@master
-        with:
-          submodules: 'recursive'
+
+      - name: Download Git submodules
+        run: |
+          git submodule update --init --recursive
 
       - name: Install PHP
         uses: shivammathur/setup-php@master
