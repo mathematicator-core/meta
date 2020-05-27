@@ -15,7 +15,7 @@ class PathHelper
 	{
 		$filesystem = new Filesystem();
 
-		if ($filesystem->exists($path)) {
+		if ($createDir && !$filesystem->exists($path)) {
 			$filesystem->mkdir($path);
 		}
 
