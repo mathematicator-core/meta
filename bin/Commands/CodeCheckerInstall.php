@@ -28,7 +28,7 @@ class CodeCheckerInstall extends Command
 
 		$this->filesystem = new Filesystem();
 
-		$this->codeCheckerDir = PathHelper::realPath(__DIR__ . '/../../temp/code-checker', true);
+		$this->codeCheckerDir = PathHelper::realPath(__DIR__ . '/../../temp', true) . '/code-checker';
 	}
 
 
