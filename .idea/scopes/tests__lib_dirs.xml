@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="tests/ lib dirs" pattern="file[*]:tests//*&amp;&amp;!file[mathematicator-meta]:tests//*" />
+</component>

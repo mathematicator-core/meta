@@ -1,3 +1,0 @@
-<component name="DependencyValidationManager">
-  <scope name="All src/ lib dirs" pattern="file[*]:src//*&amp;&amp;!file[mathematicator-meta]:src//*" />
-</component>

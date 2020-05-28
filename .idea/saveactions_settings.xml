@@ -14,7 +14,9 @@
     </option>
     <option name="inclusions">
       <set>
-        <option value="src/.*" />
+        <option value="bin/.*" />
+        <option value="lib/*/src/.*" />
+        <option value="lib/*/tests/.*" />
       </set>
     </option>
   </component>
