@@ -1,5 +1,5 @@
 <h1 align="center">
-    Mathematicator Meta Repository
+    Mathematicator Framework Meta Repository
 </h1>
 
 <p align="center">
@@ -8,11 +8,11 @@
     </a>
 </p>
 
-**[DEV ONLY PACKAGE]**
 [![Integrity check](https://github.com/mathematicator-core/meta/workflows/Integrity%20check/badge.svg)](https://github.com/mathematicator-core/meta/actions?query=workflow%3A%22Integrity+check%22)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](./LICENSE)
 [![PHPStan Enabled](https://img.shields.io/badge/PHPStan-enabled%20L8-brightgreen.svg?style=flat)](https://phpstan.org/)
 
+**[DEV ONLY PACKAGE]**
 **This repository is indended for easy bulk management of
 [mathematicator-core](https://github.com/mathematicator-core) packages.**
 

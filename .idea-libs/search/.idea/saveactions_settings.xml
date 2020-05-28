@@ -15,6 +15,7 @@
     <option name="inclusions">
       <set>
         <option value="src/.*" />
+        <option value="tests/.*" />
       </set>
     </option>
   </component>

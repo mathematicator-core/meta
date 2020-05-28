@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../libs/numbers" />
+    <content url="file://$MODULE_DIR$/../../libs/numbers">
+      <excludeFolder url="file://$MODULE_DIR$/../../libs/numbers/temp/code-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/../../libs/numbers/temp/coding-standard" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
