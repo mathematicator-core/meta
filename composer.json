@@ -54,7 +54,8 @@
 		}
 	],
 	"require": {
-		"php": ">=7.2"
+		"php": ">=7.2",
+		"carbon-cli/carbon-cli": "^1.2"
 	},
 	"require-dev": {
 		"brainmaestro/composer-git-hooks": "dev-master@dev",

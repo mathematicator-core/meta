@@ -21,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/localization" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/baraja-core/package-manager" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/brainmaestro/composer-git-hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/carbon-cli/carbon-cli" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/contributte/console" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/contributte/di" />
@@ -28,6 +29,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/janbarasek/doctrine-pro" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/janbarasek/php-moon-phase" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/martindilling/sunny" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mathematicator-core/calculator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/mathematicator-core/mandelbrot-set" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/mathematicator-core/statistic" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
@@ -52,6 +54,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/simple-cli/simple-cli" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/filesystem" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-ctype" />

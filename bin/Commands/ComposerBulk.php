@@ -68,7 +68,7 @@ class ComposerBulk extends Command
 		if ($composerParams) {
 			$cmd = array_merge($cmd, explode(' ', $composerParams));
 		}
-		array_push($cmd, '-d', "libs / $lib");
+		array_push($cmd, '-d', "libs/$lib");
 
 		CommandHelper::run($cmd, $output);
 	}

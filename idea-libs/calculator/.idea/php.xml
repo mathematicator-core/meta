@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/routing" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/tokenizer" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/di" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/tester" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/application" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/brainmaestro/composer-git-hooks" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/neon" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/component-model" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/finder" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/janbarasek/doctrine-pro" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/bootstrap" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/caching" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/composer" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/contributte/di" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/contributte/console" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/contributte/psr6-caching" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/contributte/psr11-container-interface" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/nette/http" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/mathematicator-core/numbers" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/mathematicator-core/tokenizer" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/phpstan/phpstan-nette" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/baraja-core/doctrine" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/baraja-core/localization" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/baraja-core/package-manager" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/../../libs/calculator/vendor/mathematicator-core/engine" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+</project>
