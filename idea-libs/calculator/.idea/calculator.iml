@@ -2,8 +2,8 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../libs/calculator">
-      <sourceFolder url="file://$MODULE_DIR$/../../libs/calculator/tests/CalculatorTests" isTestSource="true" packagePrefix="Mathematicator\Calculator\Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/../../libs/calculator/src" isTestSource="false" packagePrefix="Mathematicator\Calculator\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../libs/calculator/tests/CalculatorTests" isTestSource="true" packagePrefix="Mathematicator\Calculator\Tests\" />
       <excludeFolder url="file://$MODULE_DIR$/../../libs/calculator/temp/code-checker" />
       <excludeFolder url="file://$MODULE_DIR$/../../libs/calculator/temp/coding-standard" />
       <excludeFolder url="file://$MODULE_DIR$/../../libs/calculator/vendor/baraja-core/doctrine" />
