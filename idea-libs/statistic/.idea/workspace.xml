@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21d6eb39-ade0-4708-860b-90f20874c0dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../vizualizator/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../libs/statistic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator/.idea/calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/engine" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/integral-solver" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/integral-solver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/mandelbrot-set" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/mandelbrot-set" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/numbers" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/search" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/search" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/tokenizer" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/tokenizer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../libs/vizualizator" beforeDir="false" afterPath="$PROJECT_DIR$/../../libs/vizualizator" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cwXVVD49ZFVBaQREqKGirLmk0S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../libs/statistic" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\havlicek\web\mathematicator-core\meta\libs\statistic" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d6eb39-ade0-4708-860b-90f20874c0dd" name="Default Changelist" comment="" />
+      <created>1591440652331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591440652331</updated>
+      <workItem from="1591440653713" duration="288000" />
+      <workItem from="1591441217154" duration="973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1591441300122">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591441300122" />
+    <state x="2587" y="253" width="585" height="534" key="find.popup" timestamp="1591441476181">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="253" width="585" height="534" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591441476181" />
+  </component>
+</project>

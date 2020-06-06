@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/mathematicator-meta.iml" filepath="$PROJECT_DIR$/.idea/mathematicator-meta.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea-libs/numbers/.idea/numbers.iml" filepath="$PROJECT_DIR$/.idea-libs/numbers/.idea/numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea-libs/search/.idea/search.iml" filepath="$PROJECT_DIR$/.idea-libs/search/.idea/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea-libs/statistic/.idea/statistic.iml" filepath="$PROJECT_DIR$/.idea-libs/statistic/.idea/statistic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea-libs/tokenizer/.idea/tokenizer.iml" filepath="$PROJECT_DIR$/.idea-libs/tokenizer/.idea/tokenizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea-libs/vizualizator/.idea/vizualizator.iml" filepath="$PROJECT_DIR$/.idea-libs/vizualizator/.idea/vizualizator.iml" />
     </modules>

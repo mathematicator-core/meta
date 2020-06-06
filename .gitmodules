@@ -30,3 +30,7 @@
 	path = libs/vizualizator
 	url = https://github.com/mathematicator-core/vizualizator.git
 	branch = master
+[submodule "libs/statistic"]
+	path = libs/statistic
+	url = git@github.com:mathematicator-core/statistic.git
+	branch = master
