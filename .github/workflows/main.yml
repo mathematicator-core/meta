@@ -1,29 +1,36 @@
 name: Integrity check
 
 on:
-  pull_request:
   push:
+    branches:
+      - master
+  pull_request:
+    types: [ assigned, opened, synchronize, reopened ]
+  schedule:
+    - cron: '1 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        php: ['7.2', '7.3', '7.4'] # 8.0
 
-    name: PHP ${{ matrix.php }} tests
     steps:
-      - name: Git clone
-        uses: actions/checkout@master
-        with:
-          submodules: 'true'
+    - uses: actions/checkout@master
 
-      - name: Install PHP
-        uses: shivammathur/setup-php@master
-        with:
-          php-version: ${{ matrix.php }}
-          coverage: pcov
+    - name: Install PHP
+      uses: shivammathur/setup-php@master
+      with:
+        php-version: 8.0
 
-      - name: Install composer dependencies
-        run: |
-          composer install --no-interaction --prefer-dist
+    - name: Install composer deps
+      run: |
+        composer create-project nette/code-checker temp/code-checker ^3 --no-progress
+        composer create-project nette/coding-standard temp/coding-standard ^3 --no-progress
+
+        # Install app deps
+        composer install --no-interaction --prefer-dist
+
+    - name: The PHP Security Checker
+      uses: symfonycorp/security-checker-action@v2
+
+    - name: Check PHPStan rules
+      run: composer phpstan
